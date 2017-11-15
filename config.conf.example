@@ -1,0 +1,8 @@
+#!!IMPORTANT!! Be sure to edit lines 4 & 5 if www-data is not the owner/group for /ninja/storage!
+#Replace lines 6, 7, and 8 with your specifics (omit <>), obviously.
+
+storage_owner=www-data
+storage_group=www-data
+ninja_home=/path/to/ninja
+tempdir=/download/path
+app_url=http(s)://YourInvoiceNinja.url
